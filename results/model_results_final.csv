@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Baseline (mean),"$189,397","$294,964",0.0
+Ridge Regression,"$146,876","$254,907",0.2531
+Random Forest (tuned),"$97,378","$153,648",0.7287
+Gradient Boosting,"$110,805","$166,188",0.6826
